@@ -1,0 +1,7 @@
+{
+  "name": "Layered Film - Premium Interior Film Services",
+  "description": "A high-end interior film service website with CMS, portfolio management, and real-time design customization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
